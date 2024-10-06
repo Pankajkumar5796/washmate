@@ -1,0 +1,182 @@
+@media only screen and (max-width: 991px) {
+    .header_wrapper .mobile_menu{
+        display: block;
+        font-size: 30px;
+    }
+    .header-scrolled{
+        height: 104px;
+    }
+   
+
+    html, body {
+        overflow-x: hidden !important;
+      }
+      html{
+        overflow-x: hidden !important;
+      }
+      .banner_wrapper .caot_img{
+        display: none;
+      }
+      .testimonial_wrapper .review_slider .owl-nav .owl-prev,.testimonial_wrapper .review_slider .owl-nav .owl-next{
+        position: unset;
+      }
+      .testimonial_wrapper .review_slider .owl-nav{
+        margin-top: 30px;
+      }
+      .contacts_wrapper .container.secondary_cont{
+        top: 43%;
+      }
+      .contacts_wrapper .bg_image img{
+        height: 800px;
+        object-fit: cover;
+      }
+      .footers .left_img img{
+        display: none;
+      }
+      .footers .blog_info .blog_img{
+        justify-content: start;
+      }
+      .footers .blog_info h4{
+        text-align: left !important;
+        margin-top: 20px;
+        font-weight: 600;
+      }
+      .footers .blog_info .icon_bx{
+        justify-content: start;
+      }
+      .footers .footer_link.first{
+        margin-left: 0;
+      }
+      .footers{
+        padding-top: 50px;
+      }
+      .banner_new .banner_img{
+        display: none;
+      }
+      .banner_new .curves{
+       height: 450px;
+       background: #091c36;
+      }
+      .banner_new .content_bx h5{
+        color: #fff;
+      }
+      .banner_new .content_bx h1{
+        color: #fff;
+      }
+      .banner_new .content_bx p{
+        color: #fff;
+      }
+      .new_footer .blog_info .icon_bx{
+        justify-content: start;
+      }
+      .new_footer .blog_info .blog_img{
+        justify-content: start;
+      }
+      .new_footer .footer_logo .bottom_contact_info .info_bx{
+        display: flex;
+        margin-top: 20px;
+      }
+      .banner_new .content_bx h1 span{
+        color: rgb(135 147 218);
+        }
+        .new_price_wrapper .table thead th{
+          font-size: 16px;
+        }
+  }
+
+
+  @media(max-width:551px){
+   
+    .faq_wrapper.faq_page{
+      background-position: 100%, 100%;
+    }
+    #banner-content_bx .banner_inner_content h2{
+      font-size: 22px;
+      line-height: 28px;
+    }
+ 
+    #banner-content_bx .banner_inner_content p{
+      font-size: 15px;
+    }
+    .booking_btn .main-btn{
+      font-size: 15px;
+    }
+    .service_card_wrapper .sub_title{
+      font-size: 28px;
+    }
+    .cta_btn a{
+      font-size: 24px;
+    }
+    .inner_banner.blog-details .inner-banner-img .banner_content h1{
+      font-size: 25px;
+      margin: 0 10px;
+    }
+    .testimonial_wrapper .bottom-content p{
+      font-size: 15px;
+    }
+  }
+ 
+  
+    
+
+  @media only screen and (min-width: 991px){
+    .navbar-expand-lg{
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link{
+        padding: 0 10px;
+    }
+    .contacts_wrapper .content_bx{
+      position: relative;
+      top: 295px;
+    }
+    .contacts_wrapper .bottom_contact_info{
+      position: relative;
+      top: 120px;
+    }
+    .coat{
+      margin-top: -150px;
+    }
+    .Curtain{
+      margin-top: -150px;
+    }
+    .Accessories{
+      margin-top: -500px;
+    }
+  
+  }
+
+  @media only screen and (min-width: 991px ) and (max-width: 1199px ){
+    .main-btn{
+        padding: 10px 14px;
+    }
+    /* .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0.2rem;
+        padding-left: 0.2rem;
+    } */
+    .footers .left_img img{
+      width: 451px;
+    }
+    
+  }
+
+  @media only screen and (min-width: 991px ) and (max-width: 1200px ){
+    .main-btn{
+        padding: 10px 14px;
+    }
+    .header_wrapper .navbar-brand img{
+        height: 44px;
+    }
+    .main-btn{
+        font-size: 10px;
+    }
+    .header_wrapper .nav-item .nav-link{
+        font-size: 15px;
+        letter-spacing: 0 !important;
+    }
+    
+  }
+
+
